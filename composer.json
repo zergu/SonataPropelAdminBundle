@@ -1,5 +1,5 @@
 {
-    "name": "sonata-project/propel-admin-bundle",
+    "name": "zergu/propel-admin-bundle",
     "type": "symfony-bundle",
     "description": "Symfony Sonata / Integrate Propel into the SonataAdminBundle",
     "keywords": ["Admin Generator", "admin", "sonata", "bootstrap", "generator"],
